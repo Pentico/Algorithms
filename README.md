@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms & Data Structures
 
   All The Algorithms I have worked on
   
